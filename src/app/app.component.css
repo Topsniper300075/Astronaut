@@ -1,5 +1,6 @@
 .background{
     background-image: url("/assets/pictures/spacebackground.jpeg");
+    background-size: cover;
     width: 100vw;
     height: 100vh;
     display: grid;
