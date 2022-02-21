@@ -1,7 +1,7 @@
 # Astronaut
 
 ## How to make changes:
-Clone the project with terminal using: gh repo clone Topsniper300075/Astronaut, you must be a contributer in the repo)
+Clone the project with terminal using: gh repo clone Topsniper300075/Astronaut, you must be a contributer in the repo
 
 Make sure you have the "Source Control Repositories" menu enabled, to enable it click the 3 dots at the top and select Source Control Repositories
 
